@@ -1,0 +1,1 @@
+console.log('aegfuels-network-map.js loaded');
